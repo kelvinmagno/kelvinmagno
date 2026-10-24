@@ -22,4 +22,4 @@ Quero ampliar meu uso de dados para investigar situações, acompanhar indicador
 
 Projeto de estudo com indicadores de faturamento, metas, produtos, vendedores e estados, desenvolvido seguindo o capítulo 5 do livro *Power BI: do BI até os dashboards*, de Cristiano Malaspina.
 
-A documentação do projeto está disponível no repositório. Os arquivos e a versão interativa do dashboard serão adicionados posteriormente.
+A documentação e o PDF com as três páginas do dashboard estão disponíveis no repositório. O arquivo `.pbix` e a versão interativa ainda não estão disponíveis.

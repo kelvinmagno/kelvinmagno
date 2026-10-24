@@ -31,3 +31,7 @@ Meu primeiro dashboard desenvolvido no curso de Power BI do Senac, como exercíc
 ### [Dashboard de Pet Shop — Senac](https://github.com/kelvinmagno/powerbi-petshop-senac)
 
 Segundo dashboard desenvolvido no curso de Power BI do Senac, como exercício orientado em sala de aula, com indicadores de atendimentos por funcionário, pets por cliente e distribuição dos animais por sexo.
+
+### [Análise de Vendas e Resultados por Loja — Senac](https://github.com/kelvinmagno/powerbi-resultados-lojas-senac)
+
+Terceiro exercício prático do curso de Power BI do Senac, com seis páginas de indicadores de faturamento, lucro, margem, comissões e metas por loja e categoria, no período indicado de 2025 a 2026.

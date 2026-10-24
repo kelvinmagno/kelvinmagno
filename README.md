@@ -18,4 +18,8 @@ Quero ampliar meu uso de dados para investigar situações, acompanhar indicador
 
 ## Portfólio
 
-Estou organizando meus primeiros projetos para publicação. Cada repositório terá o objetivo da análise, a fonte dos dados, as ferramentas utilizadas e imagens do dashboard.
+### [Análise Comercial com Power BI](https://github.com/kelvinmagno/powerbi-analise-comercial)
+
+Projeto de estudo com indicadores de faturamento, metas, produtos, vendedores e estados, desenvolvido seguindo o capítulo 5 do livro *Power BI: do BI até os dashboards*, de Cristiano Malaspina.
+
+A documentação do projeto está disponível no repositório. Os arquivos e a versão interativa do dashboard serão adicionados posteriormente.

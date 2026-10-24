@@ -35,3 +35,7 @@ Segundo dashboard desenvolvido no curso de Power BI do Senac, como exercício or
 ### [Análise de Vendas e Resultados por Loja — Senac](https://github.com/kelvinmagno/powerbi-resultados-lojas-senac)
 
 Terceiro exercício prático do curso de Power BI do Senac, com seis páginas de indicadores de faturamento, lucro, margem, comissões e metas por loja e categoria, no período indicado de 2025 a 2026.
+
+### [Análise de Faturamento por Canal](https://github.com/kelvinmagno/powerbi-faturamento-canais)
+
+Dashboard de estudo com evolução do faturamento, participação dos canais Varejo, Parceiros e On-line e detalhamento por vendedor. Documentação e PDF disponíveis no repositório.

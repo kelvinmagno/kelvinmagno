@@ -20,6 +20,10 @@ Quero ampliar meu uso de dados para investigar situações, acompanhar indicador
 
 ### [Análise Comercial com Power BI](https://github.com/kelvinmagno/powerbi-analise-comercial)
 
-Projeto de estudo com indicadores de faturamento, metas, produtos, vendedores e estados, desenvolvido seguindo o capítulo 5 do livro *Power BI: do BI até os dashboards*, de Cristiano Malaspina.
+Meu principal dashboard, desenvolvido de forma independente durante meus estudos, seguindo os exercícios, os dados e as orientações do capítulo 5 do livro *Power BI: do BI até os dashboards*, de Cristiano Malaspina.
 
 A documentação e o PDF com as três páginas do dashboard estão disponíveis no repositório. O arquivo `.pbix` e a versão interativa ainda não estão disponíveis.
+
+### [Dashboard de Vendas — Senac](https://github.com/kelvinmagno/powerbi-vendas-senac)
+
+Meu primeiro dashboard desenvolvido no curso de Power BI do Senac, como exercício orientado em sala de aula, com visualizações de vendas por mês e cor, distribuição por produto e comissões por vendedora.

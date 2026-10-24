@@ -38,4 +38,4 @@ Terceiro exercício prático do curso de Power BI do Senac, com seis páginas de
 
 ### [Análise de Faturamento por Canal](https://github.com/kelvinmagno/powerbi-faturamento-canais)
 
-Dashboard de estudo com evolução do faturamento, participação dos canais Varejo, Parceiros e On-line e detalhamento por vendedor. Documentação e PDF disponíveis no repositório.
+Dashboard desenvolvido seguindo uma atividade do livro *Power BI: do BI até os dashboards*, de Cristiano Malaspina, com evolução do faturamento, participação por canal e detalhamento por vendedor. Documentação e PDF disponíveis no repositório.

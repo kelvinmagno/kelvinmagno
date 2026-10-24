@@ -27,3 +27,7 @@ A documentação e o PDF com as três páginas do dashboard estão disponíveis 
 ### [Dashboard de Vendas — Senac](https://github.com/kelvinmagno/powerbi-vendas-senac)
 
 Meu primeiro dashboard desenvolvido no curso de Power BI do Senac, como exercício orientado em sala de aula, com visualizações de vendas por mês e cor, distribuição por produto e comissões por vendedora.
+
+### [Dashboard de Pet Shop — Senac](https://github.com/kelvinmagno/powerbi-petshop-senac)
+
+Segundo dashboard desenvolvido no curso de Power BI do Senac, como exercício orientado em sala de aula, com indicadores de atendimentos por funcionário, pets por cliente e distribuição dos animais por sexo.
